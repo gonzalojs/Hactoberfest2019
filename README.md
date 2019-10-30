@@ -62,3 +62,7 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Ryan
+[Gonzalo](https://github.com/GonzaloJs)
+> “Java is to JavaScript what car is to Carpet.” – Chris Heilmann
+---
